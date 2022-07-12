@@ -23,4 +23,4 @@ if __name__ == '__main__':
 
 ## Todo
 
-1- Add ReCaptcha
+1. Making it more faster
